@@ -262,7 +262,7 @@ function App() {
             <div className='flex justify-around mb-44'>
               <div>
                 <div className='border-4 border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer'>
-                  <img src="../public/list.png" alt="list" />
+                  <img src="/public/list.png" alt="list" />
                 </div>
                 <div className='text-center m-1'>List</div>
               </div>
