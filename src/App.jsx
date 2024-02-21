@@ -269,7 +269,7 @@ function App() {
 
               <div>
                 <div className='border-4 border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer'>
-                  <img src="../public/board.png" alt="board" />
+                  <img src="/board.png" alt="board" />
                 </div>
                 <div className='text-center m-1'>Board</div>
               </div>
@@ -285,15 +285,15 @@ function App() {
             <div className='flex-row justify-around mb-16'>
 
               <div className='mb-2 border-gray-300 text-sm rounded-lg '>
-                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="../public/manageEveryone.png" alt="Everyone" />
+                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="/manageEveryone.png" alt="Everyone" />
               </div>
 
               <div className='mb-2 border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer'>
-                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="../public/manageAdmin.png" alt="Admin" />
+                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="/manageAdmin.png" alt="Admin" />
               </div>
 
               <div className='mb-2 border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer'>
-                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="../public/manageSpecific.png" alt="Specific" />
+                <img className='border-2 rounded-lg focus:ring-blue-500 focus:border-blue-500  hover:border-blue-500 cursor-pointer' src="/manageSpecific.png" alt="Specific" />
               </div>
 
             </div>
